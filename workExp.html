@@ -8,6 +8,7 @@
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+        <script src="./js/workExp.js"></script>
         <style>
             .navbar 
             {
@@ -51,10 +52,20 @@
             </div>
         </nav>
         <div class="container-fluid text-center" style="background-color:#41a3f4">
-            <h1></h1>
+            <h6></h6>
+            <p style="color:white"><i>(Click on an image below to learn more)</i></p>
+            <a onclick="selectImage(0)">
+                <img id="roboDevilsLogo" src="./pictures/roboDevilsLogo.jpg" title="FRC Team 5036 Logo" class="img-circle">
+            </a>
+            <a onclick="selectImage(1)">
+                <img id="tdsbLogo" src="./pictures/tdsb.jpg" title="TDSB Logo" class="img-circle">
+            </a>
+            <a onclick="selectImage(2)">
+                <img id="botCampLogo" src="./pictures/botCamp.jpg" title="Bot Camp Logo" class="img-circle">
+            </a>
             <h1></h1>
         </div>
-        <div>
+        <div id="info" style="text-align:center">
         </div>
     </body>
 </html>
