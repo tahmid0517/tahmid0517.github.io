@@ -16,4 +16,4 @@ function switchImage()
     imageElement.setAttribute("title",imageTitle);
 }
 
-window.setInterval(switchImage,3000);
+window.setInterval(switchImage,2400);
