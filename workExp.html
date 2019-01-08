@@ -25,6 +25,11 @@
             {
                 color: #41a3f4 !important;
             }
+            #infoTextDiv
+            {
+                max-width: 40%;
+                margin: auto;
+            }
         </style>
     </head>
     <body>
@@ -63,9 +68,13 @@
             <a onclick="selectImage(2)">
                 <img id="botCampLogo" src="./pictures/botCamp.jpg" title="Bot Camp Logo" class="img-circle">
             </a>
-            <h1></h1>
         </div>
-        <div id="info" style="text-align:center">
+        <div style="text-align:center">
+            <h2><b><u id="infoHeader" ></u></b></h2>
+            <h4><i id="timeline"></i></h4>
+        </div>
+        <div id="infoTextDiv">
+            <p><font id="infoText" size="+1" style="text-align:left"></font></p>
         </div>
     </body>
 </html>
