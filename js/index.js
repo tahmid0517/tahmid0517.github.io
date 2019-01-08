@@ -16,4 +16,5 @@ function switchImage()
     imageElement.setAttribute("title",imageTitle);
 }
 
-window.setInterval(switchImage,2100);
+const PIC_CHANGE_RATE = 2100;
+window.setInterval(switchImage,PIC_CHANGE_RATE);
