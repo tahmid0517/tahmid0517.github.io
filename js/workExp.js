@@ -39,12 +39,34 @@ var roboDevilsText = 'While not technically a "job", being on the FIRST Robotics
                    + "<br><br><b><i>Achievements:</i></b> In grades 11 and 12, the years I captained the team, we managed to " 
                    + "qualify for the World Championships by being one of the highest ranked teams in the province. When I"
                    + "graduated, I was given the Principal's Award for Student Leadership for my work with the robotics team.";
+                   
+var tdsbText = "During July 2017, I worked at Gateway Public School's summer school programme, introducing children in grades 1 " 
+             + "to 5 by teaching them how to program robots using tablets. I gained and improved upon a number of skills from "  
+             + "the experience.<br><br>"
+             + "<b><i>Collaboration and Creativity:</i></b> I was hired with 2 other students my age and we had to work "
+             + "together to come up with our lessons plans, including challenges for the students to complete. We also had "
+             + "to work with the teachers to make sure the lessons were suitable for the age group and also sometimes tie in "
+             + "the lesson with concepts the students were learning in math or science class.<br><br>"
+             + "<b><i>Teaching:</i></b> Teaching basic programming concepts to children was a good learning experience and "
+             + "improved my ability to explain concepts in a clear and concise way.<br><br>"
+             + "<b><i>Organization and Management:</i></b> Organizing our own lesson plans was a part of the job as well as "
+             + "keeping track of the different students and their progress.<br><br>"
+             + "Overall, this was a pretty fun job and I learned a lot, with this being my first official paid position.";
 
-
-var tdsbText = 'During July 2017, I had the pleasure of introducing students in grades 1 to 5 to the world of STEM through '
-             + 'robotics';
-
-var botCampText = 'During July 2018, I got to be an instructor at one of the coolest summer camps in Toronto.';
+var botCampText = "During July 2018, I got to be a robotics instructor at one of the coolest summer camps in Toronto. My job "
+                + "involved teaching students aged 9 to 14 how to design, build and program their own robots using the VEX IQ "
+                + "kit in order to have a competition amongst each other at the end of the week. There were a few skills I "
+                + "improved upon at this job.<br><br>"
+                + "<b><i>Time Management:</i></b> This was my first official job that I worked for 40 hours a week. Having to "
+                + "be on time at a specific spot each day and having to bus a long time to get there improved my time "
+                + "management ability. I also had to make sure that the children I was in charge of were making timely progress "
+                + "throughout the week.<br><br>"
+                + "<b><i>Communication:</i></b> I had to report on my students' progress to my supervisor each day as well as "
+                + "communicate with the other staff to organize responsibilities such as yard duty.<br><br>"
+                + "<b><i>Teaching:</i></b> This was a different sort of teaching experience than my previous job, where I was "
+                + "playing more of a mentor role alongside the students. In this role, I had to learn to teach students new "
+                + "concepts without doing too much and preventing the students from learning important lessons on their own."
+                + "<br><br>This job was a lot more fun than I expected and I learned quite a bit from it.";
 
 var infoTexts = [roboDevilsText,tdsbText,botCampText];
 
