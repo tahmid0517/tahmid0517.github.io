@@ -29,7 +29,7 @@ var roboDevilsText = 'While not technically a "job", being on the FIRST Robotics
                    + "people's opinions in an objective and fair manner and making sure new students transitioned "
                    + "well into becoming effective members of the team. One person can't build a successful robot. "
                    + "My role also involved collaborating and communicating with the members working on the "
-                   + "electrical, construction, pneumatics and media aspects of the team, which were overseend " 
+                   + "electrical, construction, pneumatics and media aspects of the team, which were overseen " 
                    + "by other members of the team."
                    + "<br><br><b><i>Business and Marketing:</i></b> From grades 9 to 12, I lead much of the fundraising "
                    + "activities on the team. With the help of other students, we gained sponsorships from local "
