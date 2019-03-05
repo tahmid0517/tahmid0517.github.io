@@ -1,5 +1,5 @@
 var imageAddresses = ["tahmid","turtle","botcampHeadshot","dementor"];
-var imageTitles = ["Tahmid","2017 FRC Robot","Tahmid at an outreach event with school's robotics team",
+var imageTitles = ["Tahmid","2017 FRC Robot",
                     "Headshot for Bot Camp","2018 FRC Robot"];
 var currentImageID = 0;
 
