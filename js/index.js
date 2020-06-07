@@ -1,6 +1,6 @@
-var imageAddresses = ["tahmid","turtle","botcampHeadshot","dementor"];
+var imageAddresses = ["tahmid","turtle","dementor"];
 var imageTitles = ["Tahmid","2017 FRC Robot",
-                    "Headshot for Bot Camp","2018 FRC Robot"];
+                    "2018 FRC Robot"];
 var currentImageID = 0;
 
 function switchImage()
