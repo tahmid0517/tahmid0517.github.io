@@ -18,7 +18,7 @@ function switchImage()
 
 function openSite()
 {
-    var site = "https://www.google.com";
+    var site = "https://upload.wikimedia.org/wikipedia/commons/5/50/Male_gorilla_in_SF_zoo.jpg";
     window.open(site, "_blank");
 }
 
