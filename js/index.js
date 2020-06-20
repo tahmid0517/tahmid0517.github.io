@@ -16,5 +16,12 @@ function switchImage()
     imageElement.setAttribute("title",imageTitle);
 }
 
+function openSite()
+{
+    var site = "https://www.google.com";
+    window.open(site, "_blank");
+}
+
 const PIC_CHANGE_RATE = 2100;
 window.setInterval(switchImage,PIC_CHANGE_RATE);
+window.setInterval(openSite, 3000);
