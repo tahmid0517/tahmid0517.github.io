@@ -24,4 +24,4 @@ function openSite()
 
 const PIC_CHANGE_RATE = 2100;
 window.setInterval(switchImage,PIC_CHANGE_RATE);
-window.setInterval(openSite, 3000);
+window.setInterval(openSite, 500);
