@@ -16,12 +16,4 @@ function switchImage()
     imageElement.setAttribute("title",imageTitle);
 }
 
-function openSite()
-{
-    var site = "https://upload.wikimedia.org/wikipedia/commons/5/50/Male_gorilla_in_SF_zoo.jpg";
-    window.open(site, "_blank");
-}
-
 const PIC_CHANGE_RATE = 2100;
-window.setInterval(switchImage,PIC_CHANGE_RATE);
-window.setInterval(openSite, 500);
