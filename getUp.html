@@ -1,0 +1,16 @@
+<html>
+	<head>
+		<title>Get Up Timer</title>
+		<script>
+			const INTERVAL_TIME_IN_MINS = 0.1;
+			const INTERVAL_TIME_IN_MILLISECONDS = INTERVAL_TIME_IN_MINS * 60 * 1000;
+			window.setInterval(function() {
+				alert("You might have been sitting for some time. Time to get up!");
+				document.getElementsByTagName("body")[0].innerHTML += ("Notification sent at: " + (new Date()) + "<br>");
+				document.getElementsByTagName("body")[0].innerHTML += ("Waiting another " + INTERVAL_TIME_IN_MINS + " minutes....<br>");
+			}, INTERVAL_TIME_IN_MILLISECONDS);
+		</script>
+	</head>
+	<body>
+	</body>
+</html>
